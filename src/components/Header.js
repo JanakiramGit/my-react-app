@@ -1,9 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import WeatherWidget from './WeatherWidget';
 function Header() {
 	return (
 		<header style={headerStyle}>
+			<WeatherWidget />
 			<br/>
 			<h1>Todo List</h1>
 			<Link style={linkStyle} to="/">Home</Link> | { '  ' }
