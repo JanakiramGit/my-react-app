@@ -1,4 +1,4 @@
-This is a Reat JS front end application to create a list of Todo items.
+This is a React JS front end application to create a list of Todo items.
 
 This application uses a back end Springboot API for CRUD operations of the Todo items.
 
