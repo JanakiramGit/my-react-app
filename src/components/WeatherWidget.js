@@ -5,7 +5,7 @@ class WeatherWidget extends PureComponent {
 render() {
     return (
         <div className={this.props.className || ""}>            
-            <a class="weatherwidget-io" href="https://forecast7.com/en/n33d87151d21/sydney/" data-label_1="SYDNEY" data-label_2="WEATHER" data-theme="original" >SYDNEY WEATHER</a>
+            <a className="weatherwidget-io" href="https://forecast7.com/en/n33d87151d21/sydney/" data-label_1="SYDNEY" data-label_2="WEATHER" data-theme="original" >SYDNEY WEATHER</a>
             {!function (d, s, id) {
                 var js, fjs = d.getElementsByTagName(s)[0];
                 // if (!d.getElementById(id)) {
