@@ -1,3 +1,10 @@
+This is a Reat JS front end application to create a list of Todo items.
+
+This application uses a back end Springboot API for CRUD operations of the Todo items.
+
+The Springboot API code to work with this application is available at https://github.com/JanakiramGit/todos-springboot-for-reactfront
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
